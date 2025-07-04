@@ -48,6 +48,15 @@ papers:
       - text: Paper
         type: pdf
         src: https://doi.org/10.4230/LIPIcs.ITP.2024.26
+  - title: "Observational Equality Meets CIC"
+    authors: Loïc Pujet, Yann Leray, Nicolas Tabareau
+    venue: ACM Transactions on Programming Languages and Systems (TOPLAS 2025)
+    # year: 2025
+    doi: https://doi.org/10.1145/3719342
+    files:
+      - text: Paper
+        type: pdf
+        src: https://doi.org/10.1145/3719342
 ```
 
 ## Talks
@@ -65,6 +74,17 @@ papers:
       - text: Recording
         type: video
         src: https://media.upv.es/#/portal/video/bf2591f0-34a6-11ee-8485-f133f82f8945
+  - title: "How (not) to prove typed type conversion transitive"
+    authors: Yann Leray
+    venue: 31st International Conference on Types for Proofs and Programs (TYPES 2025)
+    # year: 2025
+    files:
+      - text: Slides
+        type: pdf
+        src: https://msp.cis.strath.ac.uk/types2025/slides/TYPES2025-slides78.pdf
+      - text: Recording
+        type: video
+        src: https://youtu.be/edwdMMpRKoc
 ```
 <!-- 
 # Education
